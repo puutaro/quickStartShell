@@ -1,5 +1,6 @@
 
-<div><img src="https://github.com/puutaro/sshTerminal/assets/55217593/1f97d4b4-aae3-4181-b1e8-674e5d930b97" width="300">  </div>
+
+<div><img src="https://github.com/user-attachments/assets/1863421b-df25-4044-bdae-8c41a28f2fe3" width="300">  </div>
   
 <div><img src="https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47" width="300"></div> 
 
@@ -30,12 +31,7 @@ Table of Contents
 ## Screenshots
 --------
 
-<a href="https://github.com/puutaro/fannelStore/assets/55217593/01fc1e77-1f77-4e39-8ade-03b778dcc314"><img src="https://github.com/puutaro/fannelStore/assets/55217593/01fc1e77-1f77-4e39-8ade-03b778dcc314" width="30%" /></a>
-<a href="https://github.com/puutaro/fannelStore/assets/55217593/d1ddb1f8-2491-4305-868c-b080b164c33d"><img src="https://github.com/puutaro/fannelStore/assets/55217593/d1ddb1f8-2491-4305-868c-b080b164c33d" width="30%" /></a>
-<a href="https://github.com/puutaro/fannelStore/assets/55217593/9fab42d6-be2e-4d5a-8c0c-842393a31bce"><img src="https://github.com/puutaro/fannelStore/assets/55217593/9fab42d6-be2e-4d5a-8c0c-842393a31bce" width="30%" /></a>
-<a href="https://github.com/puutaro/sshTerminal/assets/55217593/3ae0957b-6de4-4654-b8d4-ce99c146fb9f"><img src="https://github.com/puutaro/sshTerminal/assets/55217593/3ae0957b-6de4-4654-b8d4-ce99c146fb9f" width="30%" />
-<a href="https://github.com/puutaro/sshTerminal/assets/55217593/6552d02d-ef78-440c-bab0-d0411ea44594"><img src="https://github.com/puutaro/sshTerminal/assets/55217593/6552d02d-ef78-440c-bab0-d0411ea44594" width="30%" /></a>
-<a href="https://github.com/puutaro/sshTerminal/assets/55217593/9c0d5972-59a5-4b84-90b5-7ce90068b72a"><img src="https://github.com/puutaro/sshTerminal/assets/55217593/9c0d5972-59a5-4b84-90b5-7ce90068b72a" width="30%" /></a>
+<a href="https://github.com/user-attachments/assets/092bae22-e167-452b-92af-02579e900921"><img src="https://github.com/user-attachments/assets/092bae22-e167-452b-92af-02579e900921" width="500" /></a>
 
 ## Usage
 --------
@@ -50,7 +46,17 @@ Kill process
 
 ### Edit Button
 
-Edit shell script by this button
+Edit shell script by this button.  
+And **create your original app**
 
-- Also, you can edit `storage/emulated/0/Documents/cmdclick/AppDir/default/quickStartShellDir/shell/execute.sh`
+
+<a href="https://github.com/user-attachments/assets/3fb2af8e-6891-467c-bcdb-a8b1502b6d32"><img src="https://github.com/user-attachments/assets/3fb2af8e-6891-467c-bcdb-a8b1502b6d32" width="500" /></a>
+
+- Also, If you edit bellow path, the same thing happens.  
+
+`storage/emulated/0/Documents/cmdclick/AppDir/default/quickStartShellDir/shell/execute.sh`
+
+If you want to know more about ubuntu, visit bellow page
+
+-> [Ubuntu detail](https://github.com/puutaro/CommandClick/blob/master/DEVELOPER.md#ubuntu)
 
