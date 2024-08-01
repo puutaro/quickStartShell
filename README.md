@@ -1,6 +1,6 @@
 
 
-<div><img src="https://github.com/user-attachments/assets/1863421b-df25-4044-bdae-8c41a28f2fe3" width="300">  </div>
+<div><img src="https://github.com/user-attachments/assets/14d1d57a-ffb8-4365-a672-fe321f209fee" width="300">  </div>
   
 <div><img src="https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47" width="300"></div> 
 
@@ -28,7 +28,7 @@ Table of Contents
 In `CommandClick`, `Ubuntu` is core feature. So, I want users to get used to the shell first.    
 You can create not only hello world app but also original app by customizing shell script.    
 In other words, you can create original app by simply edit ubuntu shell script.   
-CC's ubuntu has many feature: [variables bulk definition framework](https://github.com/puutaro/CommandClick/blob/master/md/developer/custom_shell_commands/repbash.md), [notification](https://github.com/puutaro/CommandClick/blob/master/md/developer/custom_shell_commands/noti.md), [send-broadcast](https://github.com/puutaro/CommandClick/blob/master/md/developer/custom_shell_commands/send-broadcast.md), [music player](https://github.com/puutaro/CommandClick/blob/master/md/developer/custom_shell_commands/mplay.md), [tts player](https://github.com/puutaro/CommandClick/blob/master/md/developer/custom_shell_commands/tspeech.md), [sd card edit](https://github.com/puutaro/CommandClick/blob/master/md/developer/custom_shell_commands/cp2sd.md).. etc.
+CC's ubuntu has many feature: [variables bulk definition framework](https://github.com/puutaro/CommandClick/blob/master/md/developer/custom_shell_commands/repbash.md), [notification](https://github.com/puutaro/CommandClick/blob/master/md/developer/custom_shell_commands/noti.md), [send-broadcast](https://github.com/puutaro/CommandClick/blob/master/md/developer/custom_shell_commands/send-broadcast.md), [music player](https://github.com/puutaro/CommandClick/blob/master/md/developer/custom_shell_commands/mplay.md), [tts player](https://github.com/puutaro/CommandClick/blob/master/md/developer/custom_shell_commands/tspeech.md), [sd card edit](https://github.com/puutaro/CommandClick/blob/master/md/developer/custom_shell_commands/cp2sd.md).. etc.  
 Otherwise, Ubuntu has great potential.    
 By this fannel (add-on), these wonderful feature is triggered by one click. So one click.  
 Please feel free to experience the joy of creating apps using Ubuntu.  
